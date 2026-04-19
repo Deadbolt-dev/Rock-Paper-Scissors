@@ -8,4 +8,4 @@ https://deadbolt-dev.github.io/Rock-Paper-Scissors/
 ## 💻 Tech Used
 - HTML
 - CSS
-- JavaScript
+- JS
